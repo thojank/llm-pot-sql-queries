@@ -1,4 +1,4 @@
 streamlit
-psycopg2
-google-genai
+google-generativeai>=0.3.2
 python-dotenv
+pandas
