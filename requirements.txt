@@ -1,0 +1,4 @@
+streamlit
+psycopg2
+google-genai
+python-dotenv
