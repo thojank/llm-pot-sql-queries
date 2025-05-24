@@ -1,0 +1,11 @@
+# Private Schlüssel & Konfig
+.env
+
+# Bytecode
+__pycache__/
+*.pyc
+
+# IDEs / Editor-Backups
+.vscode/
+*.swp
+.DS_Store.env
